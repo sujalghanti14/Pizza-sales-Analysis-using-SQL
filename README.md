@@ -96,7 +96,3 @@ The analysis covers the entire process — from **database creation and schema d
 - Promote **top 5 revenue-generating pizzas** through combo offers  
 - Align staffing and promotions with **peak order hours** to optimize sales  
 - Diversify underperforming categories (e.g., Veggie) to improve balance  
-
----
-
-### 📂 Repository Structure
